@@ -1,0 +1,44 @@
+<html>
+<body>
+  <head>
+    <title>Apps</title>
+  </head>
+  
+     <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="test.html">Apps</a></li>
+      <li><a href="test.html">Photography</a></li>
+      
+</body>
+  
+<style>
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding 0;
+  border-style: solid;
+  border-color: white;
+  background-color: white;
+
+}
+
+body {
+  background-color: pink;
+ 
+}
+
+li {
+  text-align: center;
+  display: block;
+  width: 60px;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-family: serif;
+  display: inline;
+  font-size: 23px;
+  
+}
+  
+</style>
+  
+</html>
